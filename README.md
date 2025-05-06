@@ -36,8 +36,8 @@ To analyze and interpret Tata Motors’ financial performance and trends over a 
 3. Navigate through the sheets to explore computations and visual trend analysis.
 
 ## ✅ Key Insights
-![Tata_Headshot_of_ratio1.jpg](Tata_Headshot_of_ratio1.jpg)  
-![Tata_Headshot_of_ratio2.jpg](Tata_Headshot_of_ratio2.jpg)
+![Tata_Headshot_of_ratio1.png](Tata_Headshot_of_ratio1.png) 
+![Tata_Headshot_of_ratio2.png](Tata_Headshot_of_ratio2.png)
 
 - Improved **Operating Margin** in recent years suggests better cost control.  
 - A recovering **ROE** reflects stronger capital efficiency post-pandemic.  
